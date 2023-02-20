@@ -2,6 +2,21 @@
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+<h2>Design ~</h2>
+https://www.figma.com/file/Mkq95jgG4xQF9h6gCla9j3/weather?node-id=0%3A1&t=uuMp13qALkC1Rc9d-1
+
+<hr>
+
+<h2>Galery</h2>
+
+![image](https://user-images.githubusercontent.com/82625479/220132369-80d30026-8878-4ff6-8d7b-07c9f00843e5.png)
+
+![image](https://user-images.githubusercontent.com/82625479/220132318-74197ca5-91b5-403c-be60-0184014ca905.png)
+
+
+![image](https://user-images.githubusercontent.com/82625479/220132189-1f7670d4-79f9-405d-944b-a2d9b38c355c.png)
+
+
 ## Available Scripts
 
 In the project directory, you can run:
