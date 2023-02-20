@@ -1,0 +1,19 @@
+@import './varibles.scss';
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@100;400;500;600;700;800&display=swap');
+
+* {
+  box-sizing: border-box;
+  padding: 0;
+  margin: 0;
+  text-decoration: none;
+  border: none;
+  outline: none;
+  transition: all .3s linear;
+}
+body {
+  background-color: $primary;
+  color: $white;
+  font-size: $size;
+  font-family: $poppias;
+  overflow-x: hidden;
+}
