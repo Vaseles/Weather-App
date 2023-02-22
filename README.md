@@ -9,12 +9,11 @@ https://www.figma.com/file/Mkq95jgG4xQF9h6gCla9j3/weather?node-id=0%3A1&t=uuMp13
 
 <h2>Galery</h2>
 
-![image](https://user-images.githubusercontent.com/82625479/220132369-80d30026-8878-4ff6-8d7b-07c9f00843e5.png)
+![image](https://user-images.githubusercontent.com/82625479/220598067-0c80d6d6-ba40-499a-b5e3-710eff9a23f5.png)
 
-![image](https://user-images.githubusercontent.com/82625479/220132318-74197ca5-91b5-403c-be60-0184014ca905.png)
+![image](https://user-images.githubusercontent.com/82625479/220598159-01efe692-96e2-446f-a876-07ea415b884d.png)
 
-
-![image](https://user-images.githubusercontent.com/82625479/220132189-1f7670d4-79f9-405d-944b-a2d9b38c355c.png)
+![image](https://user-images.githubusercontent.com/82625479/220598307-6de75537-bd8c-444d-be01-098a9b924297.png)
 
 
 ## Available Scripts
