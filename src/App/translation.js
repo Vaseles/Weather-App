@@ -8,7 +8,9 @@ export const English ={
   "Wind_speed": "Wind speed",
 
   'Free_Cool_Socks': "Free Cool Socks",
-  "Free_Cool_Socks_Text": "Free shipping, warm comfortable awesome cotton cool socks, made very high quality. There are many designer prints from Sonic to Mario."
+  "Free_Cool_Socks_Text": "Free shipping, warm comfortable awesome cotton cool socks, made very high quality. There are many designer prints from Sonic to Mario.",
+
+  "Pavlodar": "Pavlodar",
 }
 
 export const Russian ={
@@ -21,7 +23,9 @@ export const Russian ={
   "Wind_speed": "Скорость Ветра",
 
   'Free_Cool_Socks': "Бесплатные Крутые Носки",
-  "Free_Cool_Socks_Text": "Бесплатная доставка, теплые удобные офигенные хлопковые  крутые носки, сделаны очень качественно. Есть много дизайнерских принтов начиная с Соника заканчивая Марио"
+  "Free_Cool_Socks_Text": "Бесплатная доставка, теплые удобные офигенные хлопковые  крутые носки, сделаны очень качественно. Есть много дизайнерских принтов начиная с Соника заканчивая Марио",
+
+  "Pavlodar": "Павлодар",
 }
 
 export const Kazakh ={
@@ -33,5 +37,7 @@ export const Kazakh ={
   "Wind_deg": "Желдің бағыты",
   "Wind_speed": "Жел жылдамдығы",
   'Free_Cool_Socks': "Тегін салқын шұлықтар",
-  "Free_Cool_Socks_Text": "Жеткізу тегін, жылы ыңғайлы керемет мақта салқын шұлықтар, өте жоғары сапалы жасалған. Sonic-тен Мариоға дейін көптеген дизайнерлік басып шығарулар бар."
+  "Free_Cool_Socks_Text": "Жеткізу тегін, жылы ыңғайлы керемет мақта салқын шұлықтар, өте жоғары сапалы жасалған. Sonic-тен Мариоға дейін көптеген дизайнерлік басып шығарулар бар.",
+
+  "Pavlodar": "Павлодар"
 }

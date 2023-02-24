@@ -15,7 +15,7 @@ const App = () => {
 
   const [data, setData] = useState()
   const [error, setError] = useState('');
-  const [search, setSearch] = useState('Pavlodar');
+  const [search, setSearch] = useState('Павлодар');
   const [language, setLanguage] = useState(English);
 
   useEffect (() => {
