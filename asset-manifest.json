@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/Weather-App/static/css/main.05c5ab3d.css",
+    "main.js": "/Weather-App/static/js/main.01c9e919.js",
+    "static/media/Pavlodar_Map.png": "/Weather-App/static/media/Pavlodar_Map.590fb06d4fbe328bbb30.png",
+    "index.html": "/Weather-App/index.html",
+    "main.05c5ab3d.css.map": "/Weather-App/static/css/main.05c5ab3d.css.map",
+    "main.01c9e919.js.map": "/Weather-App/static/js/main.01c9e919.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.05c5ab3d.css",
+    "static/js/main.01c9e919.js"
+  ]
+}
