@@ -1,8 +1,6 @@
 import React, { useEffect, useState } from 'react';
 import axios from 'axios';
 import styles from './App.module.scss';
-import Mountine from './../assets/images/image7.png'
-import Sunset from './../assets/images/image8.png'
 import {FaSearch} from 'react-icons/fa';
 
 import { English, Russian, Kazakh } from './translation';
